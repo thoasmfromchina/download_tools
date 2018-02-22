@@ -3,12 +3,12 @@
 from pymongo import MongoClient as mongoclient
 import re
 import time
-dbuser = "pornhub"
-dbpass = "fqw34tg4@@"
-dbhost = "172.16.255.252"
-dbport = 65533
-database = "PornHub"
-collections = "PhRes"
+dbuser = 
+dbpass =
+dbhost = 
+dbport = 
+database = 
+collections = 
 
 def mongo_query(search_contents):
 
